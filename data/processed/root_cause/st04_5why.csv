@@ -1,0 +1,6 @@
+level,why_question,answer,evidence_status
+1,Why is line throughput constrained?,ST04 is the line constraint in 97.78% of shifts.,Supported by data
+2,Why does ST04 produce less than the rest of the line?,ST04 has the lowest station performance at 91.48% and OEE of 85.46%.,Supported by data
+3,Where is the cycle-time loss most visible?,Shift C has the highest mean actual cycle time at 80.58 sec.,Supported by data
+4,What operational mechanism could be increasing cycle time?,"Possible contributors include manual work-content variation, functional-test duration, fixture handling, changeover, or material waiting.",Hypothesis - requires process observation
+5,What should be validated on the shop floor?,"Perform a time study by work element, compare shifts, review test sequence duration, and observe fixture/material waiting.",Validation action

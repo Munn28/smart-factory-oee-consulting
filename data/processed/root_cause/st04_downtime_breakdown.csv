@@ -1,0 +1,6 @@
+category,failure_type,event_count,downtime_minutes,average_duration_min,max_duration_min,share_of_st04_unplanned
+Quality,Functional Test Failure,36,439.6,12.211111111111112,13.5,0.2693049897387203
+Changeover,Product Changeover,32,425.39,13.2934375,13.5,0.2605997488283763
+Equipment Failure,Fixture Fault,34,403.58,11.87,13.5,0.24723864367323184
+Material,Component Shortage,26,319.95,12.305769230769231,13.5,0.19600575856893437
+Micro Stop,Assembly Micro Stop,17,43.83,2.578235294117647,4.34,0.02685085919073728

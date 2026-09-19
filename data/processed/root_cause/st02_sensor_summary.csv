@@ -1,0 +1,2 @@
+station_id,failure_type,event_count,total_downtime_min,average_duration_min,median_duration_min,max_duration_min,share_of_st02_unplanned,share_of_total_unplanned
+ST02,Part Presence Sensor,49,635.46,12.96857142857143,13.5,13.5,0.3307155459101626,0.09513657561625584

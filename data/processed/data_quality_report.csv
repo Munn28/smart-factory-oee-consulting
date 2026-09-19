@@ -1,0 +1,31 @@
+check_name,status,details
+Unique production record IDs,PASS,Duplicates: 0
+Unique downtime IDs,PASS,Duplicates: 0
+Unique maintenance IDs,PASS,Duplicates: 0
+Unique machine master IDs,PASS,Duplicates: 0
+Unique product master IDs,PASS,Duplicates: 0
+Production quantity reconciliation,PASS,Invalid rows: 0
+Production time reconciliation,PASS,Invalid rows: 0
+No negative production values,PASS,Negative values: 0
+Valid production station IDs,PASS,Invalid rows: 0
+Valid downtime station IDs,PASS,Invalid rows: 0
+Valid maintenance station IDs,PASS,Invalid rows: 0
+Valid production product IDs,PASS,Invalid rows: 0
+Valid downtime product IDs,PASS,Invalid rows: 0
+Valid target product IDs,PASS,Invalid rows: 0
+Valid production shifts,PASS,Invalid rows: 0
+Valid downtime shifts,PASS,Invalid rows: 0
+Valid target shifts,PASS,Invalid rows: 0
+No missing critical production values,PASS,Missing values: 0
+No missing critical downtime values,PASS,Missing values: 0
+30 production blocks per station-shift,PASS,Invalid groups: 0
+One scheduled product per shift,PASS,Invalid shifts: 0
+Downtime duration reconciliation,PASS,Invalid events: 0
+Positive downtime duration,PASS,Invalid events: 0
+Production vs downtime-event reconciliation,PASS,Production: 7312.65 min | Downtime log: 7312.65 min
+Production downtime IDs exist in downtime log,PASS,Missing IDs: 0
+Downtime events link to production records,PASS,Unlinked events: 0
+One production target per shift,PASS,Duplicates: 0
+Target product matches production schedule,PASS,Matched: 90 / 90 targets
+Valid maintenance types,PASS,Invalid rows: 0
+Positive maintenance duration,PASS,Invalid rows: 0

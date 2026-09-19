@@ -1,0 +1,7 @@
+problem,initiative,annual_benefit_eur,implementation_cost_eur,payback_months,confidence,implementation_horizon,confidence_score,benefit_score,payback_score,cost_score,priority_score,priority_rank
+ST04 throughput constraint,Combined ST04 optimization package,140513.58695652167,60000.0,5.1240596414550685,Medium,3-9 months,3,5.0,5,1.0,4.0,1
+ST04 throughput constraint,Functional-test / fixture optimization,91555.92105263167,35000.0,4.58736032766859,Medium,3-6 months,3,3.2579027777919194,5,2.6666666666666665,3.5531611111167676,2
+ST04 throughput constraint,Work-element study + standard work,54807.98969072172,15000.0,3.284192706496434,Medium-High,0-3 months,4,1.9502736666910598,5,4.0,3.430109466676424,3
+ST02 Part Presence Sensor downtime,Basic sensor inspection + standard recovery,1059.1000000000001,3000.0,33.99112453970352,High,0-2 months,5,0.03768674698795183,2,4.8,2.235074698795181,4
+ST02 Part Presence Sensor downtime,Sensor reliability action plan,1588.65,5500.0,41.544707770748744,Medium-High,0-3 months,4,0.056530120481927744,2,4.633333333333333,2.017612048192771,5
+ST02 Part Presence Sensor downtime,Sensor + PLC diagnostics improvement,2647.7500000000005,9000.0,40.78934944764422,Medium,2-6 months,3,0.09421686746987958,2,4.4,1.797686746987952,6

@@ -1,0 +1,6 @@
+level,why_question,answer,evidence_status
+1,Why is ST02 availability lower than the other stations?,ST02 has the highest total downtime and the lowest availability among the five stations.,Supported by data
+2,Which failure contributes most to ST02 unplanned downtime?,Part Presence Sensor caused 635.46 minutes across 49 events.,Supported by data
+3,"Is the sensor problem driven by frequency, recovery time, or both?",The average event duration is 12.97 minutes and the failure accounts for 33.07% of ST02 unplanned downtime.,Supported by data
+4,Why might the part-presence signal be failing?,"Possible causes include sensor alignment, mounting stability, contamination, wiring/connectors, product geometry, or PLC signal handling.",Hypothesis - requires physical validation
+5,What should be validated before selecting a solution?,"Inspect mounting/alignment, review fault codes and PLC input history, check wiring/connectors, compare product variants, and observe operator recovery steps.",Validation action

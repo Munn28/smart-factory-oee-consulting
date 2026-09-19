@@ -1,0 +1,545 @@
+maintenance_id,station_id,timestamp,type,failure_type,duration_min,component,action_taken,successful_restart,date,year,month,month_name,week,day_name
+MT000001,ST01,2026-01-05 11:47:32.571207349,Corrective,Coolant Sensor Alarm,13.5,Coolant Sensor Alarm,"Inspect, reset or replace affected component",True,2026-01-05,2026,1,January,2,Monday
+MT000002,ST02,2026-01-05 08:15:04.976348678,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-05,2026,1,January,2,Monday
+MT000003,ST03,2026-01-05 07:31:25.962375638,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-05,2026,1,January,2,Monday
+MT000004,ST04,2026-01-05 12:34:56.182838794,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-05,2026,1,January,2,Monday
+MT000005,ST02,2026-01-05 18:04:29.416286832,Corrective,Communication Fault,11.86,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-05,2026,1,January,2,Monday
+MT000006,ST03,2026-01-05 21:00:36.170065733,Corrective,Inspection Calibration,12.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-05,2026,1,January,2,Monday
+MT000007,ST04,2026-01-05 16:02:08.331940120,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-05,2026,1,January,2,Monday
+MT000008,ST05,2026-01-05 14:04:54.355853408,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-05,2026,1,January,2,Monday
+MT000009,ST05,2026-01-05 15:47:26.592957121,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-05,2026,1,January,2,Monday
+MT000010,ST05,2026-01-05 19:32:23.981650415,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-05,2026,1,January,2,Monday
+MT000011,ST01,2026-01-06 00:32:11.584625756,Corrective,Tool Change,13.5,Tool Change,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000012,ST01,2026-01-06 04:19:40.162505258,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000013,ST02,2026-01-06 00:31:58.851807482,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000014,ST02,2026-01-06 01:03:05.847103802,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000015,ST02,2026-01-06 03:48:00.483546043,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000016,ST04,2026-01-06 00:00:05.757683046,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000017,ST04,2026-01-06 02:45:21.625300799,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000018,ST05,2026-01-06 02:33:58.259199383,Corrective,Packaging Material Shortage,13.5,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000019,ST02,2026-01-06 07:48:35.806086710,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000020,ST03,2026-01-06 06:49:16.708828151,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000021,ST03,2026-01-06 10:00:11.016408750,Corrective,Vision System Fault,11.57,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000022,ST05,2026-01-06 13:16:34.881044918,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000023,ST02,2026-01-06 18:16:08.603033881,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000024,ST03,2026-01-06 15:30:00.003490426,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000025,ST04,2026-01-06 18:02:15.076273842,Corrective,Functional Test Failure,13.22,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000026,ST01,2026-01-07 00:17:25.196810453,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000027,ST02,2026-01-06 23:17:49.018605213,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-06,2026,1,January,2,Tuesday
+MT000028,ST02,2026-01-07 02:03:29.891870886,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000029,ST02,2026-01-07 03:03:02.054086662,Corrective,Gripper Fault,8.67,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000030,ST05,2026-01-07 05:18:26.413667122,Corrective,Packaging Material Shortage,13.5,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000031,ST01,2026-01-07 07:45:12.077400902,Corrective,Tool Change,9.6,Tool Change,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000032,ST02,2026-01-07 11:31:16.344399485,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000033,ST04,2026-01-07 11:32:03.236642999,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000034,ST05,2026-01-07 09:33:40.382490213,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000035,ST02,2026-01-07 15:47:09.160746273,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000036,ST03,2026-01-07 18:01:32.303726843,Corrective,Measurement Sensor Fault,9.13,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000037,ST04,2026-01-07 19:47:25.505396257,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000038,ST04,2026-01-07 21:00:35.391745088,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000039,ST01,2026-01-07 22:30:11.520263197,Corrective,Coolant Sensor Alarm,13.5,Coolant Sensor Alarm,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000040,ST01,2026-01-08 01:45:40.330028210,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000041,ST01,2026-01-08 04:15:00.000000000,Preventive,,10.67,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-08,2026,1,January,2,Thursday
+MT000042,ST02,2026-01-08 02:16:03.290967185,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000043,ST02,2026-01-08 02:31:05.276381979,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000044,ST03,2026-01-08 03:03:30.449730439,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000045,ST04,2026-01-07 22:01:42.718536988,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000046,ST04,2026-01-07 22:46:38.021667170,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-07,2026,1,January,2,Wednesday
+MT000047,ST04,2026-01-08 00:48:33.666061553,Corrective,Functional Test Failure,11.49,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000048,ST04,2026-01-08 04:32:50.849177555,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000049,ST05,2026-01-08 03:17:16.618471574,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000050,ST05,2026-01-08 03:32:12.808110590,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000051,ST04,2026-01-08 09:17:32.611795264,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000052,ST04,2026-01-08 12:04:50.359369785,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000053,ST04,2026-01-08 12:18:08.551170025,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000054,ST01,2026-01-08 14:18:20.794624909,Corrective,Spindle Fault,13.14,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000055,ST01,2026-01-08 16:30:00.000000000,Preventive,,5.55,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-08,2026,1,January,2,Thursday
+MT000056,ST01,2026-01-08 19:00:59.900921412,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000057,ST02,2026-01-08 15:03:10.134985424,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000058,ST03,2026-01-08 20:15:15.704153529,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000059,ST04,2026-01-08 15:32:14.031647651,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000060,ST04,2026-01-08 21:04:23.475740319,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000061,ST02,2026-01-08 22:33:41.445226452,Corrective,Robot Position Fault,13.15,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-08,2026,1,January,2,Thursday
+MT000062,ST02,2026-01-09 02:16:23.465156120,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000063,ST03,2026-01-09 02:04:06.172931800,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000064,ST04,2026-01-08 22:15:00.000000000,Preventive,,5.84,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-08,2026,1,January,2,Thursday
+MT000065,ST04,2026-01-09 05:18:48.609816311,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000066,ST01,2026-01-09 09:45:00.000000000,Preventive,,6.71,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-09,2026,1,January,2,Friday
+MT000067,ST01,2026-01-09 13:04:54.795723448,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000068,ST02,2026-01-09 08:03:11.007874307,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000069,ST03,2026-01-09 08:31:36.280631495,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000070,ST03,2026-01-09 12:17:31.964999972,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000071,ST04,2026-01-09 10:16:41.324399020,Corrective,Component Shortage,8.57,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000072,ST05,2026-01-09 08:46:53.987985677,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000073,ST02,2026-01-09 18:19:48.861148200,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000074,ST02,2026-01-09 19:01:26.849359535,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000075,ST03,2026-01-09 17:32:00.585577384,Corrective,Vision System Fault,11.65,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000076,ST03,2026-01-09 18:49:36.059095822,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000077,ST03,2026-01-09 20:32:49.667244967,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000078,ST04,2026-01-09 14:03:26.910460458,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000079,ST04,2026-01-09 17:45:00.000000000,Preventive,,8.95,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-09,2026,1,January,2,Friday
+MT000080,ST04,2026-01-09 18:32:57.574321325,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000081,ST01,2026-01-09 23:30:59.961892394,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000082,ST01,2026-01-09 23:45:34.183580833,Corrective,Tool Wear,12.79,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000083,ST02,2026-01-10 04:17:26.500473901,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-10,2026,1,January,2,Saturday
+MT000084,ST03,2026-01-09 23:15:00.000000000,Preventive,,10.01,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-09,2026,1,January,2,Friday
+MT000085,ST04,2026-01-10 01:15:13.171384089,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-10,2026,1,January,2,Saturday
+MT000086,ST04,2026-01-10 05:00:14.255327162,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-10,2026,1,January,2,Saturday
+MT000087,ST05,2026-01-09 22:32:46.182520156,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-09,2026,1,January,2,Friday
+MT000088,ST02,2026-01-12 10:33:47.845970756,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-12,2026,1,January,3,Monday
+MT000089,ST02,2026-01-12 11:01:18.063410380,Corrective,Robot Position Fault,8.02,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-12,2026,1,January,3,Monday
+MT000090,ST02,2026-01-12 13:15:44.440176604,Corrective,Part Presence Sensor,11.9,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-12,2026,1,January,3,Monday
+MT000091,ST03,2026-01-12 08:45:28.272919921,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-12,2026,1,January,3,Monday
+MT000092,ST04,2026-01-12 09:15:12.146347298,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-12,2026,1,January,3,Monday
+MT000093,ST03,2026-01-12 14:30:03.346376193,Corrective,Vision System Fault,11.41,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-12,2026,1,January,3,Monday
+MT000094,ST03,2026-01-12 16:32:47.329427729,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-12,2026,1,January,3,Monday
+MT000095,ST03,2026-01-12 18:03:58.248812651,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-12,2026,1,January,3,Monday
+MT000096,ST03,2026-01-12 18:33:55.995754822,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-12,2026,1,January,3,Monday
+MT000097,ST01,2026-01-12 23:31:59.742498328,Corrective,Tool Change,13.5,Tool Change,"Inspect, reset or replace affected component",True,2026-01-12,2026,1,January,3,Monday
+MT000098,ST01,2026-01-13 04:33:33.116294231,Corrective,Tool Wear,8.19,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000099,ST02,2026-01-13 02:30:42.685865583,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000100,ST02,2026-01-13 05:18:59.779789787,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000101,ST04,2026-01-13 03:03:46.312786657,Corrective,Functional Test Failure,9.21,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000102,ST01,2026-01-13 06:00:00.000000000,Preventive,,5.3,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-13,2026,1,January,3,Tuesday
+MT000103,ST01,2026-01-13 07:31:06.366454254,Corrective,Spindle Fault,12.18,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000104,ST01,2026-01-13 08:30:00.000000000,Preventive,,11.94,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-13,2026,1,January,3,Tuesday
+MT000105,ST01,2026-01-13 11:18:21.198994800,Corrective,Coolant Sensor Alarm,13.5,Coolant Sensor Alarm,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000106,ST01,2026-01-13 12:33:56.790134732,Corrective,Tool Change,13.5,Tool Change,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000107,ST02,2026-01-13 06:01:13.151729908,Corrective,Part Presence Sensor,8.33,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000108,ST02,2026-01-13 08:00:00.000000000,Preventive,,5.15,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-13,2026,1,January,3,Tuesday
+MT000109,ST02,2026-01-13 09:34:13.904633959,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000110,ST03,2026-01-13 12:47:08.864737056,Corrective,Vision System Fault,12.55,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000111,ST04,2026-01-13 07:00:31.733672068,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000112,ST02,2026-01-13 15:45:30.322947711,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000113,ST05,2026-01-13 15:15:59.838806049,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000114,ST01,2026-01-14 00:48:31.002286355,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000115,ST02,2026-01-13 23:16:11.078358453,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000116,ST02,2026-01-14 02:49:51.365636988,Corrective,Gripper Fault,13.34,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000117,ST03,2026-01-14 02:02:17.831623985,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000118,ST03,2026-01-14 04:31:24.118253577,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000119,ST04,2026-01-13 22:18:54.279953937,Corrective,Functional Test Failure,8.98,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-13,2026,1,January,3,Tuesday
+MT000120,ST05,2026-01-14 00:34:51.614689432,Corrective,Packaging Material Shortage,13.5,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000121,ST02,2026-01-14 07:03:49.319760768,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000122,ST03,2026-01-14 10:16:57.383056622,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000123,ST03,2026-01-14 12:47:20.152240005,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000124,ST01,2026-01-14 19:31:48.477079926,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000125,ST03,2026-01-14 14:47:01.537822001,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000126,ST03,2026-01-14 16:19:34.262636904,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000127,ST04,2026-01-14 15:30:00.000000000,Preventive,,7.16,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-14,2026,1,January,3,Wednesday
+MT000128,ST01,2026-01-14 22:31:11.923251881,Corrective,Spindle Fault,8.93,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000129,ST02,2026-01-14 23:49:18.210609762,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000130,ST02,2026-01-15 02:46:48.644635044,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-15,2026,1,January,3,Thursday
+MT000131,ST03,2026-01-14 23:16:58.512160704,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-14,2026,1,January,3,Wednesday
+MT000132,ST05,2026-01-15 04:18:48.434274638,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-15,2026,1,January,3,Thursday
+MT000133,ST01,2026-01-15 06:02:05.581555701,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-15,2026,1,January,3,Thursday
+MT000134,ST01,2026-01-15 06:30:00.000000000,Preventive,,11.18,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-15,2026,1,January,3,Thursday
+MT000135,ST03,2026-01-15 08:45:00.000000000,Preventive,,5.0,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-15,2026,1,January,3,Thursday
+MT000136,ST05,2026-01-15 10:04:03.915362142,Corrective,Label Sensor Fault,10.87,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-15,2026,1,January,3,Thursday
+MT000137,ST05,2026-01-15 13:00:00.000000000,Preventive,,10.12,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-15,2026,1,January,3,Thursday
+MT000138,ST01,2026-01-15 14:46:16.307861641,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-15,2026,1,January,3,Thursday
+MT000139,ST02,2026-01-15 17:30:47.935668634,Corrective,Gripper Fault,8.13,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-15,2026,1,January,3,Thursday
+MT000140,ST02,2026-01-15 20:03:12.410045767,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-15,2026,1,January,3,Thursday
+MT000141,ST03,2026-01-15 19:47:39.923646697,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-15,2026,1,January,3,Thursday
+MT000142,ST04,2026-01-15 19:33:31.868450987,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-15,2026,1,January,3,Thursday
+MT000143,ST01,2026-01-16 03:18:09.813092989,Corrective,Tool Change,13.5,Tool Change,"Inspect, reset or replace affected component",True,2026-01-16,2026,1,January,3,Friday
+MT000144,ST02,2026-01-16 00:15:00.000000000,Preventive,,10.04,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-16,2026,1,January,3,Friday
+MT000145,ST02,2026-01-16 01:00:00.000000000,Preventive,,6.38,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-16,2026,1,January,3,Friday
+MT000146,ST02,2026-01-16 03:02:58.913949810,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-16,2026,1,January,3,Friday
+MT000147,ST02,2026-01-16 04:01:07.618168295,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-16,2026,1,January,3,Friday
+MT000148,ST01,2026-01-16 11:01:46.388128332,Corrective,Coolant Sensor Alarm,13.5,Coolant Sensor Alarm,"Inspect, reset or replace affected component",True,2026-01-16,2026,1,January,3,Friday
+MT000149,ST01,2026-01-16 12:19:04.837672096,Corrective,Tool Change,11.02,Tool Change,"Inspect, reset or replace affected component",True,2026-01-16,2026,1,January,3,Friday
+MT000150,ST02,2026-01-16 08:16:10.160323091,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-16,2026,1,January,3,Friday
+MT000151,ST02,2026-01-16 12:15:06.294898885,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-16,2026,1,January,3,Friday
+MT000152,ST03,2026-01-16 08:32:41.726701562,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-16,2026,1,January,3,Friday
+MT000153,ST05,2026-01-16 09:48:17.911344644,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-16,2026,1,January,3,Friday
+MT000154,ST01,2026-01-16 21:15:00.000000000,Preventive,,10.36,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-16,2026,1,January,3,Friday
+MT000155,ST02,2026-01-16 14:02:15.825195557,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-16,2026,1,January,3,Friday
+MT000156,ST01,2026-01-16 23:30:00.000000000,Preventive,,11.06,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-16,2026,1,January,3,Friday
+MT000157,ST01,2026-01-17 02:15:00.000000000,Preventive,,11.52,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-17,2026,1,January,3,Saturday
+MT000158,ST02,2026-01-17 03:19:08.687705163,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-17,2026,1,January,3,Saturday
+MT000159,ST02,2026-01-17 05:01:14.856557275,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-17,2026,1,January,3,Saturday
+MT000160,ST03,2026-01-17 03:45:04.129408000,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-17,2026,1,January,3,Saturday
+MT000161,ST04,2026-01-17 02:03:20.939618332,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-17,2026,1,January,3,Saturday
+MT000162,ST04,2026-01-17 04:46:41.832661721,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-17,2026,1,January,3,Saturday
+MT000163,ST05,2026-01-17 05:00:51.826618197,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-17,2026,1,January,3,Saturday
+MT000164,ST01,2026-01-19 08:18:08.760047234,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-19,2026,1,January,4,Monday
+MT000165,ST02,2026-01-19 11:18:58.811146459,Corrective,Part Presence Sensor,13.2,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-19,2026,1,January,4,Monday
+MT000166,ST01,2026-01-19 16:00:00.000000000,Preventive,,10.47,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-19,2026,1,January,4,Monday
+MT000167,ST02,2026-01-19 17:32:55.790753609,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-19,2026,1,January,4,Monday
+MT000168,ST04,2026-01-19 21:15:53.487978490,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-19,2026,1,January,4,Monday
+MT000169,ST05,2026-01-19 14:18:26.906604198,Corrective,Label Sensor Fault,9.62,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-19,2026,1,January,4,Monday
+MT000170,ST01,2026-01-20 02:47:32.485931917,Corrective,Tool Wear,9.05,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-20,2026,1,January,4,Tuesday
+MT000171,ST02,2026-01-20 00:48:30.532731146,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-20,2026,1,January,4,Tuesday
+MT000172,ST02,2026-01-20 03:01:32.162516046,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-20,2026,1,January,4,Tuesday
+MT000173,ST03,2026-01-19 23:46:14.268620066,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-19,2026,1,January,4,Monday
+MT000174,ST01,2026-01-20 09:31:10.107010691,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-20,2026,1,January,4,Tuesday
+MT000175,ST02,2026-01-20 09:15:09.470248922,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-20,2026,1,January,4,Tuesday
+MT000176,ST03,2026-01-20 08:30:00.000000000,Preventive,,9.81,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-20,2026,1,January,4,Tuesday
+MT000177,ST01,2026-01-20 18:01:24.600770827,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-20,2026,1,January,4,Tuesday
+MT000178,ST02,2026-01-20 15:02:29.900187534,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-20,2026,1,January,4,Tuesday
+MT000179,ST04,2026-01-20 18:00:00.000000000,Preventive,,11.08,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-20,2026,1,January,4,Tuesday
+MT000180,ST04,2026-01-20 19:32:10.581671659,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-20,2026,1,January,4,Tuesday
+MT000181,ST01,2026-01-21 01:30:00.000000000,Preventive,,5.77,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-21,2026,1,January,4,Wednesday
+MT000182,ST02,2026-01-20 22:30:18.544708153,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-20,2026,1,January,4,Tuesday
+MT000183,ST03,2026-01-20 23:45:00.000000000,Preventive,,9.55,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-20,2026,1,January,4,Tuesday
+MT000184,ST04,2026-01-21 01:03:38.130848314,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000185,ST05,2026-01-21 03:18:21.682096207,Corrective,Packaging Material Shortage,13.5,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000186,ST01,2026-01-21 10:03:21.032038716,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000187,ST04,2026-01-21 06:49:56.874657695,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000188,ST04,2026-01-21 09:31:05.264829004,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000189,ST02,2026-01-21 16:18:35.151417617,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000190,ST03,2026-01-21 17:32:18.629047257,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000191,ST03,2026-01-21 17:48:09.189314146,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000192,ST03,2026-01-21 18:33:13.917915452,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000193,ST05,2026-01-21 21:00:00.000000000,Preventive,,7.47,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-21,2026,1,January,4,Wednesday
+MT000194,ST01,2026-01-21 23:00:38.875361137,Corrective,Tool Change,9.15,Tool Change,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000195,ST02,2026-01-21 22:32:30.816392686,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000196,ST02,2026-01-21 23:04:26.188803151,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000197,ST02,2026-01-21 23:17:13.050414765,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000198,ST02,2026-01-22 00:30:16.427979356,Corrective,Robot Position Fault,11.14,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000199,ST02,2026-01-22 01:16:20.809433264,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000200,ST03,2026-01-21 22:19:44.989826427,Corrective,Vision System Fault,13.33,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000201,ST03,2026-01-21 22:34:13.214089610,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000202,ST03,2026-01-22 02:00:21.712002905,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000203,ST04,2026-01-21 23:18:01.795881079,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-21,2026,1,January,4,Wednesday
+MT000204,ST02,2026-01-22 07:18:57.289619660,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000205,ST03,2026-01-22 10:30:00.000000000,Preventive,,11.31,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-22,2026,1,January,4,Thursday
+MT000206,ST03,2026-01-22 12:46:43.638531918,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000207,ST03,2026-01-22 13:04:06.964695213,Corrective,Inspection Calibration,8.94,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000208,ST04,2026-01-22 11:15:18.917557672,Corrective,Product Changeover,10.0,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000209,ST05,2026-01-22 09:48:33.504230898,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000210,ST04,2026-01-22 17:45:23.648399133,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000211,ST04,2026-01-22 18:48:09.091343268,Corrective,Fixture Fault,9.76,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000212,ST05,2026-01-22 15:01:35.581329403,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000213,ST01,2026-01-22 22:01:15.367655793,Corrective,Coolant Sensor Alarm,8.47,Coolant Sensor Alarm,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000214,ST01,2026-01-23 04:03:40.682431950,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000215,ST02,2026-01-23 04:45:36.994203682,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000216,ST03,2026-01-23 05:00:48.215823029,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000217,ST04,2026-01-22 22:46:10.956042681,Corrective,Product Changeover,13.35,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-22,2026,1,January,4,Thursday
+MT000218,ST04,2026-01-23 05:01:55.111169869,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000219,ST05,2026-01-23 02:46:35.698132251,Corrective,Packaging Jam,9.53,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000220,ST02,2026-01-23 07:30:58.489189237,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000221,ST02,2026-01-23 10:04:51.767388914,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000222,ST03,2026-01-23 06:15:00.000000000,Preventive,,5.44,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-23,2026,1,January,4,Friday
+MT000223,ST01,2026-01-23 14:30:55.663620023,Corrective,Tool Wear,11.97,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000224,ST01,2026-01-23 18:04:04.966507212,Corrective,Tool Change,9.34,Tool Change,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000225,ST03,2026-01-23 14:49:10.187437399,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000226,ST04,2026-01-23 16:03:15.659538657,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000227,ST05,2026-01-23 18:16:45.480140627,Corrective,Packaging Jam,11.96,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000228,ST01,2026-01-24 04:16:30.931132140,Corrective,Tool Wear,12.67,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-24,2026,1,January,4,Saturday
+MT000229,ST02,2026-01-23 22:33:04.187295770,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-23,2026,1,January,4,Friday
+MT000230,ST02,2026-01-24 00:47:57.887836649,Corrective,Robot Position Fault,8.15,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-24,2026,1,January,4,Saturday
+MT000231,ST03,2026-01-23 22:45:00.000000000,Preventive,,9.29,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-23,2026,1,January,4,Friday
+MT000232,ST03,2026-01-24 01:15:37.271518990,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-24,2026,1,January,4,Saturday
+MT000233,ST04,2026-01-24 00:34:47.099601941,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-24,2026,1,January,4,Saturday
+MT000234,ST04,2026-01-24 01:34:32.285431463,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-24,2026,1,January,4,Saturday
+MT000235,ST04,2026-01-24 02:01:29.487803529,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-24,2026,1,January,4,Saturday
+MT000236,ST04,2026-01-24 03:46:53.570055056,Corrective,Functional Test Failure,9.97,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-24,2026,1,January,4,Saturday
+MT000237,ST04,2026-01-24 04:45:06.183947650,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-24,2026,1,January,4,Saturday
+MT000238,ST01,2026-01-26 09:02:52.550802527,Corrective,Tool Change,13.5,Tool Change,"Inspect, reset or replace affected component",True,2026-01-26,2026,1,January,5,Monday
+MT000239,ST03,2026-01-26 07:04:58.327706668,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-26,2026,1,January,5,Monday
+MT000240,ST03,2026-01-26 11:19:15.610985184,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-26,2026,1,January,5,Monday
+MT000241,ST05,2026-01-26 07:33:11.443370511,Corrective,Label Sensor Fault,12.72,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-26,2026,1,January,5,Monday
+MT000242,ST01,2026-01-26 14:30:50.769069270,Corrective,Tool Wear,12.85,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-26,2026,1,January,5,Monday
+MT000243,ST01,2026-01-26 17:30:46.412064558,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-26,2026,1,January,5,Monday
+MT000244,ST02,2026-01-26 19:18:13.033656290,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-26,2026,1,January,5,Monday
+MT000245,ST03,2026-01-26 18:34:59.634121724,Corrective,Measurement Sensor Fault,12.0,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-26,2026,1,January,5,Monday
+MT000246,ST05,2026-01-26 15:18:13.973484137,Corrective,Packaging Material Shortage,13.5,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-01-26,2026,1,January,5,Monday
+MT000247,ST02,2026-01-27 04:34:04.462788702,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000248,ST04,2026-01-26 22:31:09.947399560,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-26,2026,1,January,5,Monday
+MT000249,ST04,2026-01-27 00:33:08.982023676,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000250,ST01,2026-01-27 08:01:58.286610438,Corrective,Tool Wear,12.16,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000251,ST01,2026-01-27 11:17:25.107586544,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000252,ST02,2026-01-27 08:48:15.933761203,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000253,ST02,2026-01-27 11:15:00.000000000,Preventive,,10.97,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-27,2026,1,January,5,Tuesday
+MT000254,ST02,2026-01-27 12:46:42.968325850,Corrective,Robot Position Fault,8.57,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000255,ST03,2026-01-27 08:16:41.881924273,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000256,ST05,2026-01-27 11:30:07.652279386,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000257,ST01,2026-01-27 16:45:46.093741496,Corrective,Spindle Fault,8.82,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000258,ST01,2026-01-27 19:15:58.239307516,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000259,ST02,2026-01-27 14:49:36.159044583,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000260,ST04,2026-01-27 16:02:31.717854181,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000261,ST04,2026-01-27 18:30:26.924351306,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000262,ST02,2026-01-27 22:15:19.430325898,Corrective,Part Presence Sensor,9.3,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000263,ST02,2026-01-28 04:18:30.128831837,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000264,ST02,2026-01-28 04:34:40.202142388,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000265,ST04,2026-01-27 22:49:31.869682231,Corrective,Product Changeover,12.53,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-27,2026,1,January,5,Tuesday
+MT000266,ST04,2026-01-28 00:45:00.000000000,Preventive,,6.81,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-28,2026,1,January,5,Wednesday
+MT000267,ST04,2026-01-28 02:18:38.394363958,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000268,ST04,2026-01-28 04:04:28.172131973,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000269,ST05,2026-01-28 01:33:20.439881610,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000270,ST01,2026-01-28 06:02:46.635225680,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000271,ST02,2026-01-28 06:33:29.909599112,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000272,ST02,2026-01-28 11:45:42.540780354,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000273,ST03,2026-01-28 10:30:25.948582206,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000274,ST03,2026-01-28 12:30:30.771731615,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000275,ST04,2026-01-28 12:15:57.671120097,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000276,ST01,2026-01-28 15:34:41.263243645,Corrective,Tool Change,13.5,Tool Change,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000277,ST03,2026-01-28 18:18:43.653041156,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000278,ST04,2026-01-28 16:33:00.197413498,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000279,ST04,2026-01-28 19:48:39.608575694,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000280,ST01,2026-01-28 22:31:33.144142142,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-28,2026,1,January,5,Wednesday
+MT000281,ST01,2026-01-28 23:00:00.000000000,Preventive,,7.9,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-28,2026,1,January,5,Wednesday
+MT000282,ST01,2026-01-29 04:49:33.384401227,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000283,ST05,2026-01-29 01:45:09.011343926,Corrective,Packaging Jam,11.32,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000284,ST05,2026-01-29 03:19:14.542716541,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000285,ST01,2026-01-29 07:15:58.307540834,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000286,ST01,2026-01-29 09:30:00.000000000,Preventive,,8.49,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-29,2026,1,January,5,Thursday
+MT000287,ST02,2026-01-29 12:15:22.969084399,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000288,ST02,2026-01-29 12:45:38.885705953,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000289,ST03,2026-01-29 08:15:05.106727253,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000290,ST03,2026-01-29 10:15:00.000000000,Preventive,,7.17,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-29,2026,1,January,5,Thursday
+MT000291,ST04,2026-01-29 08:00:00.000000000,Preventive,,11.09,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-29,2026,1,January,5,Thursday
+MT000292,ST04,2026-01-29 09:34:49.086783158,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000293,ST04,2026-01-29 13:00:00.000000000,Preventive,,9.85,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-29,2026,1,January,5,Thursday
+MT000294,ST05,2026-01-29 11:16:33.738252764,Corrective,Packaging Material Shortage,13.5,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000295,ST01,2026-01-29 15:45:00.000000000,Preventive,,7.22,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-29,2026,1,January,5,Thursday
+MT000296,ST01,2026-01-29 17:30:00.000000000,Preventive,,11.53,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-29,2026,1,January,5,Thursday
+MT000297,ST02,2026-01-29 16:47:13.298685070,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000298,ST02,2026-01-29 19:45:17.730041303,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000299,ST03,2026-01-29 17:32:56.948120617,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000300,ST04,2026-01-29 18:15:07.548146965,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000301,ST02,2026-01-29 22:19:29.832359347,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000302,ST02,2026-01-30 00:04:45.851756896,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000303,ST02,2026-01-30 01:48:29.698225643,Corrective,Robot Position Fault,8.64,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000304,ST02,2026-01-30 03:15:22.350740705,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000305,ST03,2026-01-30 04:31:26.491977712,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000306,ST04,2026-01-29 22:32:35.296404566,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000307,ST04,2026-01-30 03:17:46.832301876,Corrective,Component Shortage,8.06,Component Shortage,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000308,ST05,2026-01-29 23:31:09.580141579,Corrective,Packaging Jam,9.01,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000309,ST05,2026-01-29 23:46:44.706298696,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-29,2026,1,January,5,Thursday
+MT000310,ST01,2026-01-30 12:01:38.903368615,Corrective,Tool Change,9.15,Tool Change,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000311,ST01,2026-01-30 13:03:09.672055111,Corrective,Tool Wear,11.68,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000312,ST04,2026-01-30 09:03:57.131430763,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000313,ST04,2026-01-30 10:02:07.544854057,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000314,ST05,2026-01-30 07:45:03.627808441,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000315,ST05,2026-01-30 11:04:06.803480456,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000316,ST01,2026-01-30 14:30:52.421427706,Corrective,Tool Change,13.5,Tool Change,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000317,ST01,2026-01-30 15:00:00.000000000,Preventive,,9.06,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-30,2026,1,January,5,Friday
+MT000318,ST01,2026-01-30 17:31:18.877880071,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000319,ST02,2026-01-30 14:01:15.622802593,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000320,ST02,2026-01-30 17:47:13.958336875,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000321,ST02,2026-01-30 18:30:00.000000000,Preventive,,8.15,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-30,2026,1,January,5,Friday
+MT000322,ST03,2026-01-30 16:19:55.338601484,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000323,ST04,2026-01-30 18:02:02.815974990,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000324,ST04,2026-01-30 18:30:04.165097907,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000325,ST04,2026-01-30 20:01:21.156087506,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000326,ST01,2026-01-30 22:02:03.424140725,Corrective,Tool Change,13.5,Tool Change,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000327,ST01,2026-01-30 23:15:09.099381784,Corrective,Tool Wear,11.37,Tool Wear,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000328,ST02,2026-01-31 03:47:40.152927911,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-01-31,2026,1,January,5,Saturday
+MT000329,ST03,2026-01-30 22:15:29.459149724,Corrective,Vision System Fault,9.02,Vision System Fault,"Inspect, reset or replace affected component",True,2026-01-30,2026,1,January,5,Friday
+MT000330,ST03,2026-01-31 01:01:53.028774373,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-01-31,2026,1,January,5,Saturday
+MT000331,ST04,2026-01-31 00:45:00.000000000,Preventive,,11.21,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-31,2026,1,January,5,Saturday
+MT000332,ST04,2026-01-31 02:01:20.407271345,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-01-31,2026,1,January,5,Saturday
+MT000333,ST05,2026-01-31 00:15:00.000000000,Preventive,,10.86,Scheduled Inspection,Preventive inspection and servicing,True,2026-01-31,2026,1,January,5,Saturday
+MT000334,ST02,2026-02-02 10:33:53.217875611,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-02,2026,2,February,6,Monday
+MT000335,ST03,2026-02-02 12:32:17.465476496,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-02,2026,2,February,6,Monday
+MT000336,ST04,2026-02-02 09:30:00.000000000,Preventive,,9.91,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-02,2026,2,February,6,Monday
+MT000337,ST04,2026-02-02 10:48:58.672471480,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-02,2026,2,February,6,Monday
+MT000338,ST02,2026-02-02 16:15:12.478820816,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-02,2026,2,February,6,Monday
+MT000339,ST03,2026-02-02 16:30:00.000000000,Preventive,,11.72,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-02,2026,2,February,6,Monday
+MT000340,ST03,2026-02-02 19:17:58.197905606,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-02,2026,2,February,6,Monday
+MT000341,ST04,2026-02-02 20:33:40.063469144,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-02-02,2026,2,February,6,Monday
+MT000342,ST05,2026-02-02 15:34:48.691813408,Corrective,Packaging Material Shortage,13.5,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-02-02,2026,2,February,6,Monday
+MT000343,ST01,2026-02-03 04:30:52.889551994,Corrective,Coolant Sensor Alarm,13.5,Coolant Sensor Alarm,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000344,ST02,2026-02-02 23:31:46.897888042,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-02,2026,2,February,6,Monday
+MT000345,ST02,2026-02-03 04:17:11.968355940,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000346,ST02,2026-02-03 04:32:18.173268821,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000347,ST03,2026-02-02 23:00:00.000000000,Preventive,,7.66,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-02,2026,2,February,6,Monday
+MT000348,ST03,2026-02-03 01:15:00.000000000,Preventive,,6.26,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-03,2026,2,February,6,Tuesday
+MT000349,ST03,2026-02-03 02:32:46.627126026,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000350,ST04,2026-02-02 22:45:15.736451437,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-02-02,2026,2,February,6,Monday
+MT000351,ST04,2026-02-03 01:49:44.154194947,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000352,ST04,2026-02-03 04:02:44.006738910,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000353,ST05,2026-02-03 03:49:55.903656927,Corrective,Label Sensor Fault,8.76,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000354,ST05,2026-02-03 04:01:59.565633949,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000355,ST02,2026-02-03 09:01:52.103301051,Corrective,Communication Fault,11.98,Communication Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000356,ST02,2026-02-03 11:02:27.815800424,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000357,ST01,2026-02-03 15:00:00.000000000,Preventive,,11.12,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-03,2026,2,February,6,Tuesday
+MT000358,ST02,2026-02-03 16:19:37.586950443,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000359,ST02,2026-02-03 18:18:21.527903521,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000360,ST02,2026-02-03 18:45:12.345372084,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000361,ST03,2026-02-03 21:03:48.852984712,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000362,ST04,2026-02-03 18:01:10.820016816,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000363,ST04,2026-02-03 18:30:00.000000000,Preventive,,11.85,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-03,2026,2,February,6,Tuesday
+MT000364,ST01,2026-02-04 01:15:00.000000000,Preventive,,7.04,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-04,2026,2,February,6,Wednesday
+MT000365,ST02,2026-02-03 22:30:17.704993279,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-03,2026,2,February,6,Tuesday
+MT000366,ST02,2026-02-04 03:01:35.459524135,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-04,2026,2,February,6,Wednesday
+MT000367,ST02,2026-02-04 04:03:19.734952268,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-04,2026,2,February,6,Wednesday
+MT000368,ST03,2026-02-04 00:45:00.000000000,Preventive,,11.23,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-04,2026,2,February,6,Wednesday
+MT000369,ST04,2026-02-04 04:18:09.543499075,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-04,2026,2,February,6,Wednesday
+MT000370,ST03,2026-02-04 07:03:16.962038264,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-04,2026,2,February,6,Wednesday
+MT000371,ST03,2026-02-04 08:00:00.000000000,Preventive,,8.86,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-04,2026,2,February,6,Wednesday
+MT000372,ST04,2026-02-04 11:45:00.000000000,Preventive,,7.7,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-04,2026,2,February,6,Wednesday
+MT000373,ST05,2026-02-04 12:04:34.644782004,Corrective,Packaging Material Shortage,13.5,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-02-04,2026,2,February,6,Wednesday
+MT000374,ST05,2026-02-04 13:01:14.926761681,Corrective,Packaging Material Shortage,12.64,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-02-04,2026,2,February,6,Wednesday
+MT000375,ST02,2026-02-04 14:17:54.986889009,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-04,2026,2,February,6,Wednesday
+MT000376,ST02,2026-02-04 18:15:00.000000000,Preventive,,5.51,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-04,2026,2,February,6,Wednesday
+MT000377,ST04,2026-02-04 14:17:06.008315538,Corrective,Fixture Fault,12.95,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-04,2026,2,February,6,Wednesday
+MT000378,ST04,2026-02-04 17:17:46.597250853,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-04,2026,2,February,6,Wednesday
+MT000379,ST04,2026-02-04 17:32:16.549975842,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-04,2026,2,February,6,Wednesday
+MT000380,ST01,2026-02-05 03:32:57.257581894,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000381,ST01,2026-02-05 04:31:06.643478375,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000382,ST02,2026-02-05 02:34:19.865348428,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000383,ST02,2026-02-05 03:48:00.844746601,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000384,ST02,2026-02-05 04:17:17.604083666,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000385,ST03,2026-02-05 02:03:47.636502645,Corrective,Measurement Sensor Fault,12.28,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000386,ST05,2026-02-05 00:34:11.148061152,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000387,ST02,2026-02-05 10:45:25.569093296,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000388,ST02,2026-02-05 11:34:12.361799507,Corrective,Part Presence Sensor,12.4,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000389,ST02,2026-02-05 12:00:00.000000000,Preventive,,6.51,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-05,2026,2,February,6,Thursday
+MT000390,ST03,2026-02-05 09:49:42.510940411,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000391,ST03,2026-02-05 11:01:22.963088368,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000392,ST01,2026-02-05 14:48:16.236109601,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000393,ST01,2026-02-05 17:16:43.205595046,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000394,ST02,2026-02-05 17:18:09.676527265,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000395,ST02,2026-02-05 18:04:41.366721426,Corrective,Robot Position Fault,11.8,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000396,ST03,2026-02-05 14:01:44.496789459,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000397,ST03,2026-02-05 19:45:11.438453642,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000398,ST04,2026-02-05 15:32:54.971191158,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000399,ST04,2026-02-05 16:32:21.908568076,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000400,ST04,2026-02-05 18:30:00.000000000,Preventive,,8.67,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-05,2026,2,February,6,Thursday
+MT000401,ST05,2026-02-05 18:46:02.346401178,Corrective,Packaging Material Shortage,13.5,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000402,ST01,2026-02-06 01:45:54.709935604,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000403,ST01,2026-02-06 05:15:00.000000000,Preventive,,8.22,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-06,2026,2,February,6,Friday
+MT000404,ST02,2026-02-05 22:48:07.548335030,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000405,ST02,2026-02-05 23:03:33.649960171,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-05,2026,2,February,6,Thursday
+MT000406,ST02,2026-02-06 02:00:08.648206551,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000407,ST02,2026-02-06 02:19:21.773118220,Corrective,Robot Position Fault,10.8,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000408,ST02,2026-02-06 04:32:58.870081311,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000409,ST03,2026-02-06 00:31:22.466844510,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000410,ST04,2026-02-06 04:30:00.000000000,Preventive,,5.28,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-06,2026,2,February,6,Friday
+MT000411,ST05,2026-02-06 02:49:00.677078424,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000412,ST02,2026-02-06 11:30:43.400299517,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000413,ST03,2026-02-06 10:48:21.106087346,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000414,ST04,2026-02-06 08:04:03.916627743,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000415,ST04,2026-02-06 10:34:26.765812628,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000416,ST01,2026-02-06 14:18:54.130036946,Corrective,Coolant Sensor Alarm,9.79,Coolant Sensor Alarm,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000417,ST02,2026-02-06 15:45:56.518783799,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000418,ST03,2026-02-06 19:15:00.000000000,Preventive,,11.71,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-06,2026,2,February,6,Friday
+MT000419,ST03,2026-02-06 21:18:46.584696729,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000420,ST04,2026-02-06 17:00:00.000000000,Preventive,,5.62,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-06,2026,2,February,6,Friday
+MT000421,ST04,2026-02-06 17:15:56.037854135,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000422,ST04,2026-02-06 21:16:11.040966814,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000423,ST05,2026-02-06 16:02:38.354854739,Corrective,Packaging Jam,12.28,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000424,ST05,2026-02-06 17:33:33.408177232,Corrective,Label Sensor Fault,10.41,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000425,ST01,2026-02-07 03:00:00.000000000,Preventive,,7.03,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-07,2026,2,February,6,Saturday
+MT000426,ST01,2026-02-07 03:32:58.330710283,Corrective,Tool Change,8.56,Tool Change,"Inspect, reset or replace affected component",True,2026-02-07,2026,2,February,6,Saturday
+MT000427,ST04,2026-02-06 23:46:58.459879867,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-06,2026,2,February,6,Friday
+MT000428,ST04,2026-02-07 00:15:00.000000000,Preventive,,10.36,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-07,2026,2,February,6,Saturday
+MT000429,ST04,2026-02-07 00:30:23.539017418,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-07,2026,2,February,6,Saturday
+MT000430,ST04,2026-02-07 01:45:00.000000000,Preventive,,7.54,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-07,2026,2,February,6,Saturday
+MT000431,ST05,2026-02-07 00:15:22.025079254,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-07,2026,2,February,6,Saturday
+MT000432,ST05,2026-02-07 00:47:45.673807479,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-07,2026,2,February,6,Saturday
+MT000433,ST05,2026-02-07 02:00:00.000000000,Preventive,,7.8,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-07,2026,2,February,6,Saturday
+MT000434,ST01,2026-02-09 12:32:08.613836719,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000435,ST02,2026-02-09 07:31:05.940950697,Corrective,Communication Fault,13.5,Communication Fault,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000436,ST02,2026-02-09 12:32:31.812706510,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000437,ST03,2026-02-09 06:46:17.928126642,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000438,ST03,2026-02-09 07:45:12.312072273,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000439,ST04,2026-02-09 07:48:34.079177827,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000440,ST04,2026-02-09 09:49:13.021028949,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000441,ST04,2026-02-09 13:15:07.819467771,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000442,ST01,2026-02-09 16:48:29.432416181,Corrective,Tool Change,10.08,Tool Change,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000443,ST02,2026-02-09 14:31:39.951180108,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000444,ST02,2026-02-09 17:34:11.759648567,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000445,ST04,2026-02-09 16:18:28.804723294,Corrective,Component Shortage,12.25,Component Shortage,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000446,ST04,2026-02-09 16:31:05.823991737,Corrective,Fixture Fault,8.09,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000447,ST01,2026-02-10 00:19:14.126945879,Corrective,Tool Change,13.41,Tool Change,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000448,ST02,2026-02-10 01:34:37.070771035,Corrective,Robot Position Fault,11.83,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000449,ST03,2026-02-10 04:01:16.004054636,Corrective,Vision System Fault,11.81,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000450,ST04,2026-02-09 22:32:23.476090652,Corrective,Product Changeover,11.51,Product Changeover,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000451,ST04,2026-02-09 23:02:39.037508101,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-02-09,2026,2,February,7,Monday
+MT000452,ST04,2026-02-10 01:15:50.722350179,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000453,ST04,2026-02-10 02:31:22.226834340,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000454,ST02,2026-02-10 06:16:31.999981464,Corrective,Gripper Fault,8.15,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000455,ST02,2026-02-10 09:19:24.969467844,Corrective,Robot Position Fault,12.51,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000456,ST02,2026-02-10 11:01:21.707171375,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000457,ST04,2026-02-10 09:34:03.356375091,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000458,ST04,2026-02-10 10:49:13.030804521,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000459,ST05,2026-02-10 11:16:04.554912656,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000460,ST05,2026-02-10 12:00:00.000000000,Preventive,,5.31,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-10,2026,2,February,7,Tuesday
+MT000461,ST01,2026-02-10 14:45:00.000000000,Preventive,,7.58,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-10,2026,2,February,7,Tuesday
+MT000462,ST02,2026-02-10 19:02:02.300127643,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000463,ST03,2026-02-10 20:31:03.917416176,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000464,ST03,2026-02-10 20:46:40.862703664,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000465,ST04,2026-02-10 18:45:53.172833197,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000466,ST05,2026-02-10 14:03:34.220022947,Corrective,Packaging Jam,12.47,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-10,2026,2,February,7,Tuesday
+MT000467,ST02,2026-02-10 22:00:00.000000000,Preventive,,10.55,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-10,2026,2,February,7,Tuesday
+MT000468,ST02,2026-02-11 02:46:41.912354545,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000469,ST04,2026-02-11 01:18:26.080891015,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000470,ST04,2026-02-11 01:33:28.472676086,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000471,ST04,2026-02-11 03:00:00.000000000,Preventive,,6.53,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-11,2026,2,February,7,Wednesday
+MT000472,ST05,2026-02-10 23:45:00.000000000,Preventive,,10.37,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-10,2026,2,February,7,Tuesday
+MT000473,ST05,2026-02-11 00:46:47.513618900,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000474,ST03,2026-02-11 06:15:58.932813724,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000475,ST03,2026-02-11 10:02:18.064338757,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000476,ST04,2026-02-11 12:00:40.666992621,Corrective,Fixture Fault,10.64,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000477,ST01,2026-02-11 14:34:07.258786599,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000478,ST01,2026-02-11 18:30:47.675071385,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000479,ST02,2026-02-11 14:04:12.338282431,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000480,ST04,2026-02-11 15:45:00.000000000,Preventive,,7.46,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-11,2026,2,February,7,Wednesday
+MT000481,ST05,2026-02-11 14:00:14.146306000,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000482,ST01,2026-02-12 05:15:00.000000000,Preventive,,10.69,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-12,2026,2,February,7,Thursday
+MT000483,ST02,2026-02-12 03:32:55.760240394,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000484,ST02,2026-02-12 04:49:56.949997621,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000485,ST04,2026-02-11 23:00:00.000000000,Preventive,,5.28,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-11,2026,2,February,7,Wednesday
+MT000486,ST04,2026-02-11 23:47:26.729589568,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-11,2026,2,February,7,Wednesday
+MT000487,ST04,2026-02-12 00:15:17.506741779,Corrective,Functional Test Failure,12.99,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000488,ST04,2026-02-12 01:33:45.631619363,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000489,ST01,2026-02-12 06:33:40.850704854,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000490,ST01,2026-02-12 09:31:27.632535183,Corrective,Tool Wear,9.23,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000491,ST02,2026-02-12 09:00:54.340607969,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000492,ST02,2026-02-12 12:04:48.531500372,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000493,ST04,2026-02-12 06:16:01.375041150,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000494,ST05,2026-02-12 08:17:50.992112149,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000495,ST05,2026-02-12 11:03:09.346661855,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000496,ST05,2026-02-12 11:31:36.359026107,Corrective,Packaging Material Shortage,13.5,Packaging Material Shortage,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000497,ST01,2026-02-12 14:45:29.368013712,Corrective,Coolant Sensor Alarm,13.5,Coolant Sensor Alarm,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000498,ST01,2026-02-12 20:00:00.000000000,Preventive,,6.75,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-12,2026,2,February,7,Thursday
+MT000499,ST01,2026-02-12 21:15:00.000000000,Preventive,,7.17,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-12,2026,2,February,7,Thursday
+MT000500,ST02,2026-02-12 20:00:00.000000000,Preventive,,8.62,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-12,2026,2,February,7,Thursday
+MT000501,ST03,2026-02-12 19:00:00.000000000,Preventive,,9.89,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-12,2026,2,February,7,Thursday
+MT000502,ST05,2026-02-12 19:31:02.949213594,Corrective,Label Sensor Fault,10.36,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000503,ST01,2026-02-12 22:48:47.530507948,Corrective,Coolant Sensor Alarm,13.5,Coolant Sensor Alarm,"Inspect, reset or replace affected component",True,2026-02-12,2026,2,February,7,Thursday
+MT000504,ST02,2026-02-13 04:03:06.642812377,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000505,ST03,2026-02-13 02:03:32.944600521,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000506,ST03,2026-02-13 02:47:16.305026522,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000507,ST04,2026-02-13 00:32:51.333399911,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000508,ST04,2026-02-13 03:18:58.220271369,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000509,ST04,2026-02-13 03:30:24.894594277,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000510,ST05,2026-02-13 04:04:37.887858874,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000511,ST01,2026-02-13 08:31:42.044179977,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000512,ST01,2026-02-13 12:48:14.785725058,Corrective,Tool Change,13.5,Tool Change,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000513,ST02,2026-02-13 12:03:26.711664190,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000514,ST02,2026-02-13 12:19:47.435288321,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000515,ST03,2026-02-13 10:01:09.646864194,Corrective,Measurement Sensor Fault,13.5,Measurement Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000516,ST04,2026-02-13 10:01:45.357019257,Corrective,Functional Test Failure,13.5,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000517,ST04,2026-02-13 11:17:48.771156507,Corrective,Functional Test Failure,9.61,Functional Test Failure,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000518,ST05,2026-02-13 09:46:38.679986363,Corrective,Packaging Jam,13.5,Packaging Jam,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000519,ST01,2026-02-13 15:17:59.110946957,Corrective,Tool Change,13.5,Tool Change,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000520,ST01,2026-02-13 16:00:38.703103979,Corrective,Tool Wear,9.07,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000521,ST01,2026-02-13 17:15:08.367386069,Corrective,Coolant Sensor Alarm,13.5,Coolant Sensor Alarm,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000522,ST01,2026-02-13 19:03:06.918581134,Corrective,Tool Wear,11.74,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000523,ST01,2026-02-13 20:34:12.747391507,Corrective,Tool Wear,13.3,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000524,ST02,2026-02-13 16:47:25.028524286,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000525,ST02,2026-02-13 17:16:22.185995322,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000526,ST02,2026-02-13 19:33:06.407970478,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000527,ST02,2026-02-13 20:48:47.064455406,Corrective,Part Presence Sensor,13.5,Part Presence Sensor,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000528,ST04,2026-02-13 15:33:05.175028102,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000529,ST04,2026-02-13 17:47:36.193451659,Corrective,Product Changeover,13.5,Product Changeover,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000530,ST04,2026-02-13 18:45:43.144548582,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000531,ST05,2026-02-13 14:15:47.793001364,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000532,ST01,2026-02-14 01:15:00.000000000,Preventive,,5.96,Scheduled Inspection,Preventive inspection and servicing,True,2026-02-14,2026,2,February,7,Saturday
+MT000533,ST01,2026-02-14 01:48:21.982369666,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-02-14,2026,2,February,7,Saturday
+MT000534,ST01,2026-02-14 03:45:14.401210474,Corrective,Spindle Fault,13.5,Spindle Fault,"Inspect, reset or replace affected component",True,2026-02-14,2026,2,February,7,Saturday
+MT000535,ST01,2026-02-14 04:01:11.265181797,Corrective,Tool Wear,13.5,Tool Wear,"Inspect, reset or replace affected component",True,2026-02-14,2026,2,February,7,Saturday
+MT000536,ST02,2026-02-13 23:03:39.771858867,Corrective,Robot Position Fault,13.5,Robot Position Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000537,ST02,2026-02-14 04:17:39.137861945,Corrective,Gripper Fault,13.5,Gripper Fault,"Inspect, reset or replace affected component",True,2026-02-14,2026,2,February,7,Saturday
+MT000538,ST03,2026-02-13 22:17:40.226243082,Corrective,Vision System Fault,13.5,Vision System Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000539,ST03,2026-02-14 04:00:12.854381778,Corrective,Inspection Calibration,13.5,Inspection Calibration,"Inspect, reset or replace affected component",True,2026-02-14,2026,2,February,7,Saturday
+MT000540,ST04,2026-02-13 22:34:54.715645591,Corrective,Fixture Fault,13.5,Fixture Fault,"Inspect, reset or replace affected component",True,2026-02-13,2026,2,February,7,Friday
+MT000541,ST04,2026-02-14 00:46:03.083622222,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-02-14,2026,2,February,7,Saturday
+MT000542,ST04,2026-02-14 04:00:09.937210124,Corrective,Component Shortage,13.5,Component Shortage,"Inspect, reset or replace affected component",True,2026-02-14,2026,2,February,7,Saturday
+MT000543,ST05,2026-02-14 01:19:52.530192915,Corrective,Label Sensor Fault,13.5,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-14,2026,2,February,7,Saturday
+MT000544,ST05,2026-02-14 02:18:52.818074712,Corrective,Label Sensor Fault,9.21,Label Sensor Fault,"Inspect, reset or replace affected component",True,2026-02-14,2026,2,February,7,Saturday

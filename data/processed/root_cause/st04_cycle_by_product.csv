@@ -1,0 +1,4 @@
+product_id,observations,mean_ideal_cycle_sec,mean_actual_cycle_sec,median_actual_cycle_sec,p90_actual_cycle_sec,mean_cycle_variance_pct,good_quantity,downtime_minutes,product_name
+ACT-300,480,79.2,82.232375,80.7,90.05199999999999,0.03828756313131308,4714,267.45,Heavy-Duty Actuator
+ACT-200,690,72.0,76.6542463768116,75.14500000000001,83.353,0.06464231078904989,7262,476.96,Medium-Duty Actuator
+ACT-100,1530,68.4,72.10901307189543,70.31,78.553,0.054225337308412544,17250,1046.13,Standard Actuator

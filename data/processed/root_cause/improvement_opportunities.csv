@@ -1,0 +1,7 @@
+problem,initiative,expected_mechanism,impact,effort,validation_needed
+ST04 throughput constraint,Work-element time study and line balancing,Identify non-value-added time and rebalance manual work.,High,Low-Medium,Observe cycle by work element across all shifts.
+ST04 throughput constraint,Functional-test and fixture cycle optimization,Reduce fixed process time at the dominant constraint.,High,Medium,Measure fixture and test sub-cycle durations.
+ST04 throughput constraint,Shift-specific standard-work review,Reduce cycle variation between shifts.,Medium,Low,Investigate Shift C first.
+ST02 Part Presence Sensor downtime,Sensor inspection and reliability action plan,Reduce recurrence of the dominant sensor failure.,High,Low-Medium,"Inspect alignment, mounting, contamination, wiring and wear."
+ST02 Part Presence Sensor downtime,Standard robot/sensor recovery procedure,Reduce fault recovery duration and escalation time.,Medium,Low,Observe current recovery steps by shift/operator.
+ST02 Part Presence Sensor downtime,PLC alarm and diagnostic improvement,Make the fault source and recovery action visible faster.,Medium-High,Medium,"Review PLC input state, alarm history and fault-code detail."

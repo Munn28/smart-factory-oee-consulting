@@ -1,0 +1,4 @@
+station_id,constraint_shifts,average_output_attainment,total_output_gap_units,station_name,constraint_share
+ST04,88,0.9700137443335636,-882,Assembly & Testing,0.9777777777777777
+ST01,1,0.9966666666666668,-1,CNC Machining,0.011111111111111112
+ST03,1,1.02,6,Quality Inspection,0.011111111111111112

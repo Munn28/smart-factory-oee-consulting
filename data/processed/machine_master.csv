@@ -1,0 +1,6 @@
+station_id,station_name,station_type,ideal_cycle_sec,base_scrap_rate
+ST01,CNC Machining,CNC,66,0.018
+ST02,Robot Handling,Industrial Robot,60,0.008
+ST03,Quality Inspection,Inspection,63,0.025
+ST04,Assembly & Testing,Assembly,72,0.022
+ST05,Packaging,Packaging,64,0.006

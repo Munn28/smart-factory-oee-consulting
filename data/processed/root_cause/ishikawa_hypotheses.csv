@@ -1,0 +1,13 @@
+problem,category,candidate_cause,status
+ST04 throughput constraint,Machine,Fixture handling or test equipment cycle delay,Hypothesis
+ST04 throughput constraint,Method,Work sequence or standard-work imbalance,Hypothesis
+ST04 throughput constraint,Manpower,Shift-dependent manual work variation,Hypothesis
+ST04 throughput constraint,Material,Component waiting or replenishment delays,Hypothesis
+ST04 throughput constraint,Measurement,Functional-test sequence duration or retest behavior,Hypothesis
+ST04 throughput constraint,Environment,Shift-specific operating conditions,Hypothesis
+ST02 Part Presence Sensor downtime,Machine,"Sensor alignment, mounting, or component degradation",Hypothesis
+ST02 Part Presence Sensor downtime,Method,Inconsistent reset and recovery procedure,Hypothesis
+ST02 Part Presence Sensor downtime,Manpower,Different operator troubleshooting practices,Hypothesis
+ST02 Part Presence Sensor downtime,Material,Product geometry or surface affecting detection,Hypothesis
+ST02 Part Presence Sensor downtime,Measurement,"PLC input filtering, threshold, or diagnostic visibility",Hypothesis
+ST02 Part Presence Sensor downtime,Environment,"Contamination, vibration, or ambient conditions",Hypothesis

@@ -1,0 +1,4 @@
+product_id,product_name,production_mix,cycle_factor,quality_factor
+ACT-100,Standard Actuator,0.5,0.95,0.9
+ACT-200,Medium-Duty Actuator,0.3,1.0,1.0
+ACT-300,Heavy-Duty Actuator,0.2,1.1,1.25

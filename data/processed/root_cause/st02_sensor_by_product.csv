@@ -1,0 +1,4 @@
+product_id,event_count,downtime_minutes,average_duration_min,product_name,downtime_share
+ACT-100,34,444.65,13.077941176470588,Standard Actuator,0.6997293299342208
+ACT-200,10,128.48,12.847999999999999,Medium-Duty Actuator,0.20218424448431055
+ACT-300,5,62.33,12.466,Heavy-Duty Actuator,0.09808642558146853

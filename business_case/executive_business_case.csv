@@ -1,0 +1,3 @@
+case,recommended_scenario,implementation_cost_eur,annual_benefit_eur,year1_roi,payback_months,annual_additional_good_units,main_business_reason
+ST04 throughput improvement,Work-element study + standard work,15000.0,54807.98969072172,2.653865979381448,3.284192706496434,7307.731958762895,"ST04 constrains line output in nearly all observed shifts, so cycle-time reduction can translate directly into finished-goods capacity."
+ST02 sensor reliability improvement,Basic sensor inspection + standard recovery,3000.0,1059.1000000000001,-0.6469666666666666,33.99112453970352,0.0,"The Part Presence Sensor is a concentrated reliability loss, but throughput benefit is limited unless ST02 becomes the active line constraint."

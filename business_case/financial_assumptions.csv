@@ -1,0 +1,7 @@
+assumption,value,unit,basis
+Observation working days,30.0,days,Synthetic project design
+Annual working days,250.0,days/year,Simulated business-case assumption
+Economic value per additional good actuator,20.0,EUR/unit,Simulated contribution-value assumption
+Capacity realization factor,0.5,share,Simulated assumption: only part of theoretical capacity becomes sellable output
+Year-1 ramp factor,0.75,share,Simulated implementation ramp-up assumption
+Maintenance/support value per recovered hour,60.0,EUR/hour,Simulated labor/support-cost assumption

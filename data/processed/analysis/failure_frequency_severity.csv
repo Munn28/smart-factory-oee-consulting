@@ -1,0 +1,24 @@
+station_id,failure_type,category,event_count,total_downtime_min,average_duration_min,max_duration_min,station_name
+ST02,Part Presence Sensor,Sensor/Control,49,635.46,12.96857142857143,13.5,Robot Handling
+ST02,Robot Position Fault,Equipment Failure,49,595.09,12.14469387755102,13.5,Robot Handling
+ST03,Vision System Fault,Sensor/Control,40,502.31,12.55775,13.5,Quality Inspection
+ST04,Functional Test Failure,Quality,36,439.6,12.211111111111112,13.5,Assembly & Testing
+ST04,Product Changeover,Changeover,32,425.39,13.2934375,13.5,Assembly & Testing
+ST04,Fixture Fault,Equipment Failure,34,403.58,11.87,13.5,Assembly & Testing
+ST01,Tool Wear,Tooling,33,381.76,11.568484848484848,13.5,CNC Machining
+ST02,Gripper Fault,Equipment Failure,29,361.85,12.477586206896552,13.5,Robot Handling
+ST05,Packaging Jam,Equipment Failure,28,352.16,12.577142857142858,13.5,Packaging
+ST01,Spindle Fault,Equipment Failure,28,348.13,12.433214285714286,13.5,CNC Machining
+ST04,Component Shortage,Material,26,319.95,12.305769230769231,13.5,Assembly & Testing
+ST03,Inspection Calibration,Quality,23,298.22,12.96608695652174,13.5,Quality Inspection
+ST03,Measurement Sensor Fault,Sensor/Control,22,289.91,13.177727272727275,13.5,Quality Inspection
+ST05,Label Sensor Fault,Sensor/Control,24,287.24,11.968333333333334,13.5,Packaging
+ST02,Communication Fault,Sensor/Control,21,255.11,12.14809523809524,13.5,Robot Handling
+ST01,Tool Change,Tooling,22,239.53,10.887727272727274,13.5,CNC Machining
+ST05,Packaging Material Shortage,Material,13,161.05,12.38846153846154,13.5,Packaging
+ST01,Coolant Sensor Alarm,Sensor/Control,10,126.26,12.626000000000001,13.5,CNC Machining
+ST02,Robot Micro Stop,Micro Stop,29,73.96,2.5503448275862066,4.45,Robot Handling
+ST03,Inspection Micro Stop,Micro Stop,26,69.53,2.6742307692307694,4.25,Quality Inspection
+ST04,Assembly Micro Stop,Micro Stop,17,43.83,2.578235294117647,4.34,Assembly & Testing
+ST05,Packaging Micro Stop,Micro Stop,18,42.16,2.342222222222222,4.27,Packaging
+ST01,Minor CNC Stop,Micro Stop,10,27.37,2.737,4.28,CNC Machining

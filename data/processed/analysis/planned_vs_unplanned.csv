@@ -1,0 +1,11 @@
+station_id,downtime_class,downtime_minutes,downtime_events,station_name
+ST01,Planned,216.29,25,CNC Machining
+ST01,Unplanned,1123.05,103,CNC Machining
+ST02,Planned,71.88,9,Robot Handling
+ST02,Unplanned,1921.47,177,Robot Handling
+ST03,Planned,134.91,15,Quality Inspection
+ST03,Unplanned,1159.97,111,Quality Inspection
+ST04,Planned,158.19,19,Assembly & Testing
+ST04,Unplanned,1632.35,145,Assembly & Testing
+ST05,Planned,51.93,6,Packaging
+ST05,Unplanned,842.61,83,Packaging

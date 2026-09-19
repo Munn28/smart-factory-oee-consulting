@@ -1,0 +1,4 @@
+scenario,reduction_pct,recovered_minutes_30_day_period,annualized_recovered_hours,assumption
+20% sensor downtime reduction,0.2,127.09200000000001,17.651666666666667,Annualized from the simulated 30-working-day observation period using 250 working days/year.
+30% sensor downtime reduction,0.3,190.638,26.477500000000003,Annualized from the simulated 30-working-day observation period using 250 working days/year.
+50% sensor downtime reduction,0.5,317.73,44.12916666666668,Annualized from the simulated 30-working-day observation period using 250 working days/year.

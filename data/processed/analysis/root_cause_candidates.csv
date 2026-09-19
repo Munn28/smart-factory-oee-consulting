@@ -1,0 +1,16 @@
+station_id,failure_type,category,event_count,total_downtime_min,average_duration_min,max_duration_min,station_name,downtime_share_of_unplanned,candidate_reason
+ST02,Part Presence Sensor,Sensor/Control,49,635.46,12.96857142857143,13.5,Robot Handling,0.09513657561625584,High frequency and high severity
+ST02,Robot Position Fault,Equipment Failure,49,595.09,12.14469387755102,13.5,Robot Handling,0.08909266481521683,High frequency
+ST03,Vision System Fault,Sensor/Control,40,502.31,12.55775,13.5,Quality Inspection,0.07520229959053515,High frequency and high severity
+ST04,Functional Test Failure,Quality,36,439.6,12.211111111111112,13.5,Assembly & Testing,0.06581380203459866,High frequency
+ST04,Product Changeover,Changeover,32,425.39,13.2934375,13.5,Assembly & Testing,0.06368638136373504,High frequency and high severity
+ST04,Fixture Fault,Equipment Failure,34,403.58,11.87,13.5,Assembly & Testing,0.06042114245933423,High frequency
+ST01,Tool Wear,Tooling,33,381.76,11.568484848484848,13.5,CNC Machining,0.05715440642567876,High frequency
+ST02,Gripper Fault,Equipment Failure,29,361.85,12.477586206896552,13.5,Robot Handling,0.054173622079662254,High frequency and high severity
+ST05,Packaging Jam,Equipment Failure,28,352.16,12.577142857142858,13.5,Packaging,0.05272290383190233,High severity
+ST01,Spindle Fault,Equipment Failure,28,348.13,12.433214285714286,13.5,CNC Machining,0.05211956074227669,High severity
+ST04,Component Shortage,Material,26,319.95,12.305769230769231,13.5,Assembly & Testing,0.047900650502661145,Moderate impact
+ST03,Inspection Calibration,Quality,23,298.22,12.96608695652174,13.5,Quality Inspection,0.04464738863229757,High severity
+ST03,Measurement Sensor Fault,Sensor/Control,22,289.91,13.177727272727275,13.5,Quality Inspection,0.04340327422167994,High severity
+ST05,Label Sensor Fault,Sensor/Control,24,287.24,11.968333333333334,13.5,Packaging,0.04300354071068726,Moderate impact
+ST02,Communication Fault,Sensor/Control,21,255.11,12.14809523809524,13.5,Robot Handling,0.03819326441548331,Moderate impact

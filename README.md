@@ -2,7 +2,7 @@
 
 ## Overview
 
-This portfolio project simulates a small manufacturing consulting engagement for a fictional industrial manufacturer, **NexaMotion Components GmbH**.
+This project simulates a small manufacturing consulting engagement for a fictional industrial manufacturer, **NexaMotion Components GmbH**.
 
 The objective is to analyze production performance, identify OEE losses, determine bottlenecks and reliability issues, and develop improvement recommendations supported by a simulated financial business case.
 
